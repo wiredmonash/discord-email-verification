@@ -15,6 +15,8 @@ const MEMBERS =
 
 const { Email } = require('./smtp.js')
 
+console.log(CONFIG)
+
 const Discord = require('discord.js')
 const client = new Discord.Client()
 
