@@ -1,4 +1,4 @@
 config.json
-members.json
+members_real.json
 node_modules/**/*
 .regex
