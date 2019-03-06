@@ -35,6 +35,14 @@ Make a copy of config.json.template named config.json. You can alternatively use
 
 Make a copy of members.json.template named members.json. The value for the members key should contain an array of email addresses of those allowed to join your Discord server
 
+# Generating members.json
+
+Download the csv from the msa portal
+
+Place into directory and rename it to members.csv
+
+run `node transform.js`
+
 # Hosting
 
 start the bot server by running
