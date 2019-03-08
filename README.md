@@ -52,3 +52,8 @@ start the bot server by running
 or
 
 `>>> npm start`
+
+
+# Production
+
+Commit new members.json files to master. To update our config, go to heroku and login with fits @ monashclubs email address. Set the config vars in the settings page as appropriate. DO NOT PUBLISH these, they are sensitive data
